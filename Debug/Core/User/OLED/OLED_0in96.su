@@ -1,0 +1,5 @@
+../Core/User/OLED/OLED_0in96.c:54:13:OLED_0in96_WriteReg	16	static
+../Core/User/OLED/OLED_0in96.c:77:13:OLED_0in96_WriteData	16	static
+../Core/User/OLED/OLED_0in96.c:131:6:OLED_0in96_Init	8	static
+../Core/User/OLED/OLED_0in96.c:148:6:OLED_0in96_clear	8	static
+../Core/User/OLED/OLED_0in96.c:167:6:OLED_0in96_display	16	static

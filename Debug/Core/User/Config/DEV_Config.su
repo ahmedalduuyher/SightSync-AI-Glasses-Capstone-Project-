@@ -1,0 +1,6 @@
+../Core/User/Config/DEV_Config.c:21:9:System_Init	8	static
+../Core/User/Config/DEV_Config.c:40:6:System_Exit	0	static
+../Core/User/Config/DEV_Config.c:54:9:SPI4W_Write_Byte	0	static
+../Core/User/Config/DEV_Config.c:88:6:I2C_Write_Byte	24	static
+../Core/User/Config/DEV_Config.c:109:6:Driver_Delay_ms	8	static
+../Core/User/Config/DEV_Config.c:114:6:Driver_Delay_us	0	static

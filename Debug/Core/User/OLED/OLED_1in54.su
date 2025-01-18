@@ -1,0 +1,5 @@
+../Core/User/OLED/OLED_1in54.c:53:13:OLED_1in54_WriteReg	16	static
+../Core/User/OLED/OLED_1in54.c:73:13:OLED_1in54_WriteData	16	static
+../Core/User/OLED/OLED_1in54.c:135:6:OLED_1IN54_Init	8	static
+../Core/User/OLED/OLED_1in54.c:152:6:OLED_1IN54_Clear	16	static
+../Core/User/OLED/OLED_1in54.c:175:6:OLED_1IN54_Display	24	static
