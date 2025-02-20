@@ -60,7 +60,7 @@ static void OLED_0in96_WriteReg(uint8_t Reg)
     OLED_CS_1;
 #elif USE_IIC_SOFT
 	iic_start();
-	iic_write_byte(0x78);
+	iic_write_byte(0x3D << 1);
 	iic_wait_for_ack();
 	iic_write_byte(0x00);
 	iic_wait_for_ack();
@@ -83,7 +83,7 @@ static void OLED_0in96_WriteData(uint8_t Data)
     OLED_CS_1;
 #elif USE_IIC_SOFT	
 	iic_start();
-	iic_write_byte(0x78);
+	iic_write_byte(0x3D << 1);
 	iic_wait_for_ack();
 	iic_write_byte(0x40);
 	iic_wait_for_ack();

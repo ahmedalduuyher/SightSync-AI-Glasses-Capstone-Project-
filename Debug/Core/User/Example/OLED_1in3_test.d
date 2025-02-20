@@ -23,13 +23,11 @@ Core/User/Example/OLED_1in3_test.o: ../Core/User/Example/OLED_1in3_test.c \
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_flash_ex.h \
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c.h \
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.h \
+ ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2s.h \
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr.h \
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h \
- ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_smbus.h \
- ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_spi.h \
- ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_spi_ex.h \
- ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h \
- ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart_ex.h \
+ ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_usart.h \
+ ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_usart_ex.h \
  ../Core/Inc/main.h ../Core/User/Example/../GUI/GUI_Paint.h \
  ../Core/User/Example/../GUI/../Config/DEV_Config.h \
  ../Core/User/Example/../GUI/../Fonts/fonts.h \
@@ -63,13 +61,11 @@ Core/User/Example/OLED_1in3_test.o: ../Core/User/Example/OLED_1in3_test.c \
 ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_flash_ex.h:
 ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c.h:
 ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.h:
+../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2s.h:
 ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr.h:
 ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h:
-../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_smbus.h:
-../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_spi.h:
-../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_spi_ex.h:
-../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h:
-../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart_ex.h:
+../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_usart.h:
+../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_usart_ex.h:
 ../Core/Inc/main.h:
 ../Core/User/Example/../GUI/GUI_Paint.h:
 ../Core/User/Example/../GUI/../Config/DEV_Config.h:

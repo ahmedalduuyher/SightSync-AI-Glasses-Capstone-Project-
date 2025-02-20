@@ -1,4 +1,8 @@
+../Core/User/OLED/OLED_1in32.c:38:13:OLED_Reset	1
 ../Core/User/OLED/OLED_1in32.c:52:13:OLED_WriteReg	1
+../Core/User/OLED/OLED_1in32.c:62:13:OLED_WriteData	1
+../Core/User/OLED/OLED_1in32.c:76:13:OLED_InitReg	1
 ../Core/User/OLED/OLED_1in32.c:134:6:OLED_1in32_Init	1
+../Core/User/OLED/OLED_1in32.c:155:13:OLED_SetWindow	5
 ../Core/User/OLED/OLED_1in32.c:174:6:OLED_1in32_Clear	2
 ../Core/User/OLED/OLED_1in32.c:186:6:OLED_1in32_Display	3

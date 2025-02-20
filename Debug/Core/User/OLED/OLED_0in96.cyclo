@@ -1,5 +1,7 @@
+../Core/User/OLED/OLED_0in96.c:40:13:OLED_0in96_Reset	1
 ../Core/User/OLED/OLED_0in96.c:54:13:OLED_0in96_WriteReg	1
 ../Core/User/OLED/OLED_0in96.c:77:13:OLED_0in96_WriteData	1
+../Core/User/OLED/OLED_0in96.c:96:13:OLED_0in96_InitReg	1
 ../Core/User/OLED/OLED_0in96.c:131:6:OLED_0in96_Init	1
 ../Core/User/OLED/OLED_0in96.c:148:6:OLED_0in96_clear	2
 ../Core/User/OLED/OLED_0in96.c:167:6:OLED_0in96_display	3

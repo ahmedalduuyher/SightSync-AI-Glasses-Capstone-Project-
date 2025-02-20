@@ -6,8 +6,8 @@
 #define IIC_SOFT_SCL_PIN         IIC_SCL_SOFT_Pin
 #define IIC_SOFT_SDA_PIN         IIC_SDA_SOFT_Pin
 
-#define IIC_SOFT_SCL_GPIO        GPIOC
-#define IIC_SOFT_SDA_GPIO        GPIOC
+#define IIC_SOFT_SCL_GPIO        GPIOB
+#define IIC_SOFT_SDA_GPIO        GPIOA
 
 #define __IIC_SCL_SET()     HAL_GPIO_WritePin(IIC_SOFT_SCL_GPIO, IIC_SOFT_SCL_PIN, GPIO_PIN_SET)
 #define __IIC_SCL_CLR()     HAL_GPIO_WritePin(IIC_SOFT_SCL_GPIO, IIC_SOFT_SCL_PIN, GPIO_PIN_RESET)
@@ -31,7 +31,7 @@
 								tGPIO.Pull = GPIO_PULLUP; \
 								tGPIO.Speed = GPIO_SPEED_FREQ_MEDIUM; \
 								HAL_GPIO_Init(IIC_SOFT_SDA_GPIO, &tGPIO); \
-							}while(0)   
+							}while(0)
 
 
 

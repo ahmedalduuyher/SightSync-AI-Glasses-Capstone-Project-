@@ -21,11 +21,11 @@
 #define UWORD   uint16_t
 #define UDOUBLE uint32_t
 
-#define USE_SPI_4W 		1
+#define USE_SPI_4W 		0
 #define USE_IIC 		0
-#define USE_IIC_SOFT	0
+#define USE_IIC_SOFT	1
 
-#define I2C_ADR	0X3C //Hardware setting 0X3C or 0X3D
+#define I2C_ADR	0X3D //Hardware setting 0X3C or 0X3D
 
 #define IIC_CMD		0X00
 #define IIC_RAM		0X40

@@ -65,8 +65,8 @@ all: main-build
 main-build: capstone_project.elf secondary-outputs
 
 # Tool invocations
-capstone_project.elf capstone_project.map: $(OBJS) $(USER_OBJS) C:\Users\ahmed\OneDrive\Desktop\capstone_project\STM32F042K6TX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "capstone_project.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m0 -T"C:\Users\ahmed\OneDrive\Desktop\capstone_project\STM32F042K6TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="capstone_project.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+capstone_project.elf capstone_project.map: $(OBJS) $(USER_OBJS) C:\Users\ahmed\OneDrive\Desktop\SightSync-AI-Glasses-Capstone-Project-\STM32F042K6TX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "capstone_project.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m0 -T"C:\Users\ahmed\OneDrive\Desktop\SightSync-AI-Glasses-Capstone-Project-\STM32F042K6TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="capstone_project.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

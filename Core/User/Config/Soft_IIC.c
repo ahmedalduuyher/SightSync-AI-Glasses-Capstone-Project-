@@ -1,5 +1,6 @@
 #include "Soft_IIC.h"
 #include "stdio.h"
+
 void iic_init(void)
 {
 	__IIC_SCL_SET();
@@ -33,11 +34,11 @@ void iic_stop(void)
 int iic_wait_for_ack(void)
 {
 	uint8_t chTimeOut = 0;
-	
+
 	__IIC_SCL_CLR();
 	Driver_Delay_us(10);
 	__IIC_SCL_SET();
-	
+
 	while ((!(__IIC_SDA_READ())) && (chTimeOut ++)) {
 		chTimeOut ++;
 		if (chTimeOut > 200) {
@@ -49,7 +50,7 @@ int iic_wait_for_ack(void)
 	}
 	__IIC_SCL_CLR();
 	Driver_Delay_us(10);
-	
+
 	return 0;
 }
 

@@ -7,7 +7,6 @@
 ******************************************************************************/
 #include "DEV_Config.h"
 #include "stm32f0xx_hal_i2c.h"
-#include "stm32f0xx_hal_spi.h"
 #include "Soft_IIC.h"
 #include <stdio.h>		//printf()
 #include <string.h>

@@ -1,6 +1,8 @@
-../Core/User/OLED/OLED_1in27_rgb.c:63:13:OLED_WriteData	16	static
+../Core/User/OLED/OLED_1in27_rgb.c:38:13:OLED_Reset	8	static
 ../Core/User/OLED/OLED_1in27_rgb.c:52:13:OLED_WriteReg	16	static
+../Core/User/OLED/OLED_1in27_rgb.c:63:13:OLED_WriteData	16	static
+../Core/User/OLED/OLED_1in27_rgb.c:77:13:OLED_InitReg	8	static
 ../Core/User/OLED/OLED_1in27_rgb.c:149:6:OLED_1in27_rgb_Init	8	static
-../Core/User/OLED/OLED_1in27_rgb.c:166:6:OLED_1in27_rgb_Clear	8	static
-../Core/User/OLED/OLED_1in27_rgb.c:187:6:OLED_1in27_rgb_Display	16	static
-../Core/User/OLED/OLED_1in27_rgb.c:212:6:OLED_1in27_rgb_Display_Part	40	static
+../Core/User/OLED/OLED_1in27_rgb.c:166:6:OLED_1in27_rgb_Clear	16	static
+../Core/User/OLED/OLED_1in27_rgb.c:187:6:OLED_1in27_rgb_Display	32	static
+../Core/User/OLED/OLED_1in27_rgb.c:212:6:OLED_1in27_rgb_Display_Part	32	static
