@@ -20,7 +20,7 @@
 |-----------|-------|--------------------|
 | Microcontroller | STM32F042K6 | 48MHz Cortex-M0, 32KB Flash, 6KB RAM |
 | Bluetooth Module | HC05 | Class 2, 2.4GHz, UART interface |
-| MEMS Microphone | ICS-43434 | 24-bit, 64dB SNR, -26dBFS sensitivity |
+| MEMS Microphone | ICS-43434 | 24-bit, 64dB SNR, -26dBFS sensitivity, I2S interface |
 | OLED Display | Waveshare 0.96" | 128x64, SSD1306 controller, I2C interface |
 
 ## 🚀 Getting Started
