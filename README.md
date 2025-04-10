@@ -9,7 +9,7 @@
 ## 🌟 Features
 - Real-time text captioning on compact OLED display
 - Bluetooth 2.1 (EDR) wireless communication via HC05
-- Advanced text wrapping and screen management
+- Custom text wrapping and screen management firmware
 - Auto-clear functionality with configurable timeout
 - Low-power STM32 Cortex-M0 core processing
 - MEMS microphone with I2S digital output
