@@ -23,14 +23,6 @@
 | MEMS Microphone | ICS-43434 | 24-bit, 64dB SNR, -26dBFS sensitivity, I2S interface |
 | OLED Display | Waveshare 0.96" | 128x64, SSD1306 controller, I2C interface |
 
-## 🚀 Getting Started
-
-### Prerequisites
-- STM32CubeIDE
-- ST-Link/V2 programmer
-- Bluetooth terminal app (for testing)
-- 3.3V/5V power supply
-
 ### Installation
 1. Clone repository:
    ```bash
