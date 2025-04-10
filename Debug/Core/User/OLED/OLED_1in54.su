@@ -1,7 +1,0 @@
-../Core/User/OLED/OLED_1in54.c:39:13:OLED_1in54_Reset	8	static
-../Core/User/OLED/OLED_1in54.c:53:13:OLED_1in54_WriteReg	16	static
-../Core/User/OLED/OLED_1in54.c:73:13:OLED_1in54_WriteData	16	static
-../Core/User/OLED/OLED_1in54.c:97:13:OLED_1in54_InitReg	8	static
-../Core/User/OLED/OLED_1in54.c:135:6:OLED_1IN54_Init	8	static
-../Core/User/OLED/OLED_1in54.c:152:6:OLED_1IN54_Clear	16	static
-../Core/User/OLED/OLED_1in54.c:175:6:OLED_1IN54_Display	32	static

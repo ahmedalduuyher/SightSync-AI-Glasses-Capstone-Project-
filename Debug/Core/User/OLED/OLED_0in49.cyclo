@@ -1,7 +1,0 @@
-../Core/User/OLED/OLED_0in49.c:39:13:OLED_WriteReg	1
-../Core/User/OLED/OLED_0in49.c:55:13:OLED_WriteData	1
-../Core/User/OLED/OLED_0in49.c:75:13:OLED_InitReg	1
-../Core/User/OLED/OLED_0in49.c:126:6:OLED_0in49_Init	1
-../Core/User/OLED/OLED_0in49.c:137:6:OLED_0in49_Clear	2
-../Core/User/OLED/OLED_0in49.c:156:14:reverse	1
-../Core/User/OLED/OLED_0in49.c:168:6:OLED_0in49_Display	2

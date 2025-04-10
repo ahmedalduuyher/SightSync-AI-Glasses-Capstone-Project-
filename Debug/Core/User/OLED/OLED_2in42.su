@@ -1,7 +1,0 @@
-../Core/User/OLED/OLED_2in42.c:39:13:OLED_2in42_Reset	8	static
-../Core/User/OLED/OLED_2in42.c:53:13:OLED_2in42_WriteReg	16	static
-../Core/User/OLED/OLED_2in42.c:73:13:OLED_2in42_WriteData	16	static
-../Core/User/OLED/OLED_2in42.c:97:13:OLED_2in42_InitReg	8	static
-../Core/User/OLED/OLED_2in42.c:135:6:OLED_2in42_Init	8	static
-../Core/User/OLED/OLED_2in42.c:152:6:OLED_2in42_Clear	16	static
-../Core/User/OLED/OLED_2in42.c:175:6:OLED_2in42_Display	32	static
