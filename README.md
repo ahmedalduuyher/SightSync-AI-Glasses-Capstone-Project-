@@ -6,14 +6,9 @@
 [![Bluetooth](https://img.shields.io/badge/Bluetooth-HC05-0082FC?logo=bluetooth)](https://www.olimex.com/Products/Components/RF/BLUETOOTH-SERIAL-HC-05/)
 [![OLED](https://img.shields.io/badge/OLED-0.96"_128x64-00FF00?logo=waveshare)](https://www.waveshare.com/0.96inch-oled-module.htm)
 
-## 🌟 Features
+## Datasheet
 - Real-time text captioning on compact OLED display
-- Bluetooth 2.1 (EDR) wireless communication via HC05
-- Custom text wrapping and screen management firmware
-- Auto-clear functionality with configurable timeout
-- Low-power STM32 Cortex-M0 core processing
-- MEMS microphone with I2S digital output
-- Custom word-boundary aware display formatting
+
 
 ## 📋 Hardware Components
 | Component | Model | Key Specifications |
