@@ -6,10 +6,6 @@
 [![Bluetooth](https://img.shields.io/badge/Bluetooth-HC05-0082FC?logo=bluetooth)](https://www.olimex.com/Products/Components/RF/BLUETOOTH-SERIAL-HC-05/)
 [![OLED](https://img.shields.io/badge/OLED-0.96"_128x64-00FF00?logo=waveshare)](https://www.waveshare.com/0.96inch-oled-module.htm)
 
-## Datasheet
-[![PDF Preview](./Screenshot 2025-05-01 080653.png)](./SightSync Datasheet.pdf)
-
-
 ## 📋 Hardware Components
 | Component | Model | Key Specifications |
 |-----------|-------|--------------------|
